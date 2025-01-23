@@ -1,17 +1,17 @@
-# SiteGuide: AI Navigation Extension
+# SiteGuide: AI Navigation Extension 🚀
 
 ![SiteGuide Demo GIF](2025-01-23%2015-00-06%20(online-video-cutter.com).gif)
 
-## Overview
+## Overview 💡
 SiteGuide is a browser extension that enhances your browsing experience by providing an intelligent chat assistant. This extension allows you to navigate complex website UIs with natural language inputs.
 
-## Features
-- **Interactive Chat:** Chat with the assistant and receive contextual responses.
-- **Highlight Clickable Elements:** The assistant highlights relevant clickable elements on the page.
-- **Theme Toggle:** Switch between light and dark themes.
-- **Message History:** Retain chat messages and clear them when needed.
+## Features 🌟
+- **Interactive Chat:** Chat with the assistant and receive contextual responses. 💬
+- **Highlight Clickable Elements:** The assistant highlights relevant clickable elements on the page. 🔍
+- **Theme Toggle:** Switch between light and dark themes. 🌙🌞
+- **Message History:** Retain chat messages and clear them when needed. 🧾
 
-## Installation
+## Installation ⚙️
 1. Clone the repository:
 
     ```bash
@@ -30,28 +30,28 @@ SiteGuide is a browser extension that enhances your browsing experience by provi
     python server.py
     ```
 
-## Usage
+## Usage 🖥️
 1. Open your browser and navigate to the Extensions page.
 2. Enable Developer Mode.
 3. Click "Load unpacked" and select the project directory.
 4. Click the extension icon in your browser to open the chat interface.
 5. Type your message or use the voice input button to interact with the assistant.
 
-## File Structure
+## File Structure 🗂️
 - **popup.html**: HTML file for the extension's popup interface.
 - **popup.js**: JavaScript file for the extension's popup logic.
 - **server.py**: Python server that handles requests.
 - **styles.css**: CSS file for the extension's styling.
 - **manifest.json**: Manifest file that describes the extension and its permissions.
 
-## Configuration
+## Configuration ⚙️
 Update any required configurations in `server.py` based on your needs.
 
-## Video Demo
+## Video Demo 🎥
 ![SiteGuide Demo Video](2025-01-23%2015-00-06%20(online-video-cutter.com).mp4)
 
-## Contributing
+## Contributing 🤝
 Contributions are welcome! Please open an issue or submit a pull request.
 
-## License
+## License 📄
 This project is licensed under the MIT License. See the LICENSE file for details.
