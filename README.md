@@ -46,13 +46,12 @@ SiteGuide is a browser extension that enhances your browsing experience by provi
 Update any required configurations in `server.py` based on your needs.
 
 ## Video Demo
-2025-01-23 15-00-06 (online-video-cutter.com).mp4
+![SiteGuide Demo Video](2025-01-23%2015-00-06%20(online-video-cutter.com).mp4)
 
 ## GIF Demo
-![SiteGuide Demo GIF](path_to_your_gif.gif)
+![SiteGuide Demo GIF](2025-01-23%2015-00-06%20(online-video-cutter.com).gif)
 
 ## Contributing
 Contributions are welcome! Please open an issue or submit a pull request.
 
-## License
-This project is licensed under the MIT License. See the LICENSE file for details.
+
