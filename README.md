@@ -46,7 +46,7 @@ SiteGuide is a browser extension that enhances your browsing experience by provi
 Update any required configurations in `server.py` based on your needs.
 
 ## Video Demo
-![SiteGuide Demo Video](path_to_your_video.mp4)
+![SiteGuide Demo Video](2025-01-23 15-00-06 (online-video-cutter.com).mp4)
 
 ## GIF Demo
 ![SiteGuide Demo GIF](path_to_your_gif.gif)
