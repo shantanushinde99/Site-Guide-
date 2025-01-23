@@ -21,7 +21,7 @@ SiteGuide is a browser extension that enhances your browsing experience by provi
 2. Navigate to the project directory:
 
     ```bash
-    cd IBM-Hackethon-Final-Project
+    cd Site-Guide
     ```
 
 3. Run the server:
