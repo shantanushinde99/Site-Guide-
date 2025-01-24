@@ -35,7 +35,7 @@ SiteGuide is a browser extension that enhances your browsing experience by provi
 2. Enable Developer Mode.
 3. Click "Load unpacked" and select the project directory.
 4. Click the extension icon in your browser to open the chat interface.
-5. Type your message or use the voice input button to interact with the assistant.
+5. Type your message to interact with the assistant.
 
 ## File Structure 🗂️
 - **popup.html**: HTML file for the extension's popup interface.
